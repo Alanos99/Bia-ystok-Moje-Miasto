@@ -1,0 +1,90 @@
+
+
+.header {
+    background-image: url(bialystok-miasto.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 80px 20px;
+    margin: 0px 0px;
+    color: white;
+    text-shadow: 0px 2px 2px black
+}
+
+#main-h1 {
+    background-color: rgb(6, 168, 60);
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+#main-p {
+    background-color: rgb(6, 168, 60);
+    padding: 5px 10px;
+    border-radius: 10px;
+    margin: 5px 0px 10px 0px;
+}
+
+#wyraz {
+    text-decoration: underline;
+}
+
+
+.atrakcje-turystyczne {
+    border-radius: 50%;
+    width: 200px;
+    height: 150px;
+    border: 3px solid black;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+body {
+    text-align: center;
+    font-family: "Lexend";
+}
+
+.paragraph-h3 {
+    margin: 10px 20px;
+}
+
+.main {
+    background-color: #60e48c;
+    margin-bottom: 50px;
+}
+
+.article-h2 {
+    background-color: #60e48c;
+    display: block;
+    margin: 0px;
+    padding: 30px 00px;
+    font-weight: bold;
+    color: black;
+}
+
+.przewodnik {
+    padding: 40px;
+    display: flex;
+    justify-content: space-around;
+    margin: 0px auto;
+    width: 600px;
+    text-align: center;
+    background-color: #60e48c;
+    border-bottom: 6px solid #caa502;
+}
+
+.alan {
+    width: 250px;
+    height: auto;
+}
+
+.wizytowka {
+    margin-top: 70px;
+}
